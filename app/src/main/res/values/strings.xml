@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">F32</string>
+    <string name="logo">Logo</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="tap_back_button_in_order_to_exit">Tap back button in order to exit</string>
+    <string name="OK">OK</string>
+
+    <string-array name="brand_list">
+        <item>Samsung</item>
+        <item>Iphone</item>
+        <item>Xiaomi</item>
+    </string-array>
+
+    <string-array name="price_list">
+        <item>$0-$300</item>
+        <item>$300-$500</item>
+        <item>$500-$1000</item>
+        <item>$1000-$5000</item>
+        <item>$5000-$10000</item>
+    </string-array>
+
+    <string-array name="size_list">
+        <item>4.5 to 5.5 inches</item>
+    </string-array>
+
+</resources>
